@@ -1,0 +1,12 @@
+{
+  "token": "TOKENİNİZ",
+  "prefix": ".",
+  "guildID": "SUNUCU IDNIZ",
+  "botOwner": "BOTUN SAHIP IDSI",
+  "clientPresence": "Beş Was Here",
+  "clientFooter": "Beş Was Here",
+  "MongoURL": "VİDEODA ANLATILAN ŞEKİLDE MONGO URLNİZ",
+  "voiceChannel": "BOTUN BAĞLANACAĞI SES KANALI",
+  "levelSystem": true,
+  "levelChannel": "LEVEL LOG"
+}
